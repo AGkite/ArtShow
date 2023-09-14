@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "name": "《黄玫瑰》",
+    "author": "丹尼尔·格哈茨",
+    "date": "2012年7月17日",
+    "description": "The Starry Night is an oil on canvas painting by Dutch post-impressionist painter Vincent van Gogh.",
+    "path": "../images/油画/黄玫瑰.jpg",
+    "tags": [
+      "post-impressionism",
+      "night",
+      "sky",
+      "stars"
+    ],
+    "likes": 100,
+    "comments": [
+      {
+        "user": "John",
+        "message": "这幅画太棒了！"
+      },
+      {
+        "user": "Sarah",
+        "message": "我喜欢这件艺术品中的颜色。"
+      },
+      {
+        "user": "Rafiya",
+        "message": "这幅画作展现了令人难以置信的细节和精湛的技巧。"
+      }
+    ]
+  }
+]

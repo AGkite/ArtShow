@@ -1,0 +1,108 @@
+[
+  {
+    "id": "3",
+    "name": "老人",
+    "author": "丹尼尔·格哈茨",
+    "date": "2017年6月8日",
+    "description": "一个孤独而衣衫褴褛的老人。他身着破旧的灰色衣物，衣袖和裤腿上有明显的修补痕迹，暴露出岁月的摧残和贫困的生活。他的头发零乱散乱，混杂着苍白的白发，脸上布满了皱纹，显露出岁月的痕迹和辛劳的印记。",
+    "path": "../images/人物/老人.jpg",
+    "tags": [
+      "人物",
+      "night",
+      "sky",
+      "stars"
+    ],
+    "likes": 100,
+        "comments": [
+          {
+            "user": "John",
+            "message": "这幅画太棒了！"
+          },
+          {
+            "user": "Sarah",
+            "message": "我喜欢这件艺术品中的颜色。"
+          },
+          {
+              "user": "Rafiya",
+              "message": "这幅画作展现了令人难以置信的细节和精湛的技巧。"
+          }
+    ]
+  },
+  {
+    "id": "8",
+    "name": "珍珠耳环女",
+    "author": "约翰内斯·维米尔",
+    "date": "1913年2月5日",
+    "description": "美国女作家崔西·雪佛兰看到这幅作品时一下子被打动了，她将其改编为同名小说并立刻在美国图书排行榜上占据高位。导演彼得·韦伯看过这本根据名画改编的书后，又立刻将其改编为感人至深的爱情电影并大获好评。",
+    "path": "../images/油画/戴珍珠耳环的少女.jpg",
+    "tags": [
+      "油画",
+      "renaissance",
+      "smile"
+    ],
+    "likes": 200,
+    "comments": [
+      {
+        "user": "Emily",
+        "message": "Such an iconic masterpiece!"
+      },
+      {
+        "user": "Michael",
+        "message": "I've always been fascinated by this painting."
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "黄玫瑰",
+    "author": "丹尼尔·格哈茨",
+    "date": "2012年7月17日",
+    "description": "The Starry Night is an oil on canvas painting by Dutch post-impressionist painter Vincent van Gogh.",
+    "path": "../images/油画/黄玫瑰.jpg",
+    "tags": [
+      "油画",
+      "night",
+      "sky",
+      "stars"
+    ],
+    "likes": 100,
+        "comments": [
+          {
+            "user": "John",
+            "message": "这幅画太棒了！"
+          },
+          {
+            "user": "Sarah",
+            "message": "我喜欢这件艺术品中的颜色。"
+          },
+          {
+              "user": "Rafiya",
+              "message": "这幅画作展现了令人难以置信的细节和精湛的技巧。"
+          }
+    ]
+  },
+  {
+    "id": "30",
+    "name": "恩沢",
+    "author": "约翰内斯·维米尔",
+    "date": "1913年2月5日",
+    "description": "美国女作家崔西·雪佛兰看到这幅作品时一下子被打动了，她将其改编为同名小说并立刻在美国图书排行榜上占据高位。导演彼得·韦伯看过这本根据名画改编的书后，又立刻将其改编为感人至深的爱情电影并大获好评。",
+    "path": "../images/人物/恩沢.jpg",
+    "tags": [
+      "油画",
+      "renaissance",
+      "smile"
+    ],
+    "likes": 200,
+    "comments": [
+      {
+        "user": "Emily",
+        "message": "Such an iconic masterpiece!"
+      },
+      {
+        "user": "Michael",
+        "message": "I've always been fascinated by this painting."
+      }
+    ]
+  }
+]
