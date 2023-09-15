@@ -6,7 +6,7 @@
             <ul>
                 <li><strong>电子邮件:</strong> contact@artshow.com</li>
                 <li><strong>电话:</strong> 123-456-7890</li>
-                <li><strong>地址:</strong> 广东省广州市广州软件学院</li>
+                <li><strong>地址:</strong></li>
             </ul>
         </div>
         <form id="contact-form">
@@ -14,7 +14,7 @@
             <input type="text" id="name" name="name" placeholder="您的姓名">
 
             <label for="email">电子邮件:</label>
-            <input type="email" id="email" name="email" placeholder="您的电子邮件l">
+            <input type="email" id="email" name="email" placeholder="您的电子邮件">
 
             <label for="message">留言:</label>
             <textarea id="message" name="message" placeholder="您的留言或建议"></textarea>

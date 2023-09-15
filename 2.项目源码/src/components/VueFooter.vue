@@ -2,9 +2,9 @@
     <footer class="footer">
         <div class="links">
             <span>&copy;版权所有</span>
-            <span>刘文豪</span>
-            <span>任健钊</span>
-            <span>罗梓杰</span>
+            <span></span>
+            <span></span>
+            <span></span>
         </div>
     </footer>
 </template>
